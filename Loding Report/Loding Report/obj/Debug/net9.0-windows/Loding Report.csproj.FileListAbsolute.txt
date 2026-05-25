@@ -1,0 +1,81 @@
+N:\learning\WPF\Loding Report\Loding Report\obj\Debug\net9.0-windows\Loding Report.csproj.AssemblyReference.cache
+N:\learning\WPF\Loding Report\Loding Report\obj\Debug\net9.0-windows\Controls\CommonButton.baml
+N:\learning\WPF\Loding Report\Loding Report\obj\Debug\net9.0-windows\Controls\LoaderControl.g.cs
+N:\learning\WPF\Loding Report\Loding Report\obj\Debug\net9.0-windows\MainWindow.g.cs
+N:\learning\WPF\Loding Report\Loding Report\obj\Debug\net9.0-windows\Views\ListBillReport.g.cs
+N:\learning\WPF\Loding Report\Loding Report\obj\Debug\net9.0-windows\App.g.cs
+N:\learning\WPF\Loding Report\Loding Report\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+N:\learning\WPF\Loding Report\Loding Report\obj\Debug\net9.0-windows\Loding Report_MarkupCompile.cache
+N:\learning\WPF\Loding Report\Loding Report\obj\Debug\net9.0-windows\Loding Report_MarkupCompile.lref
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\Loding Report.exe
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\Loding Report.deps.json
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\Loding Report.runtimeconfig.json
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\Loding Report.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\Loding Report.pdb
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\ControlzEx.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\MahApps.Metro.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\MaterialDesignColors.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\MaterialDesignThemes.Wpf.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\MaterialDesignThemes.MahApps.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\Microsoft.Xaml.Behaviors.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\de\MahApps.Metro.resources.dll
+N:\learning\WPF\Loding Report\Loding Report\obj\Debug\net9.0-windows\App.baml
+N:\learning\WPF\Loding Report\Loding Report\obj\Debug\net9.0-windows\Controls\LoaderControl.baml
+N:\learning\WPF\Loding Report\Loding Report\obj\Debug\net9.0-windows\MainWindow.baml
+N:\learning\WPF\Loding Report\Loding Report\obj\Debug\net9.0-windows\Views\ListBillReport.baml
+N:\learning\WPF\Loding Report\Loding Report\obj\Debug\net9.0-windows\Loding Report.g.resources
+N:\learning\WPF\Loding Report\Loding Report\obj\Debug\net9.0-windows\Loding Report.GeneratedMSBuildEditorConfig.editorconfig
+N:\learning\WPF\Loding Report\Loding Report\obj\Debug\net9.0-windows\Loding Report.AssemblyInfoInputs.cache
+N:\learning\WPF\Loding Report\Loding Report\obj\Debug\net9.0-windows\Loding Report.AssemblyInfo.cs
+N:\learning\WPF\Loding Report\Loding Report\obj\Debug\net9.0-windows\Loding Report.csproj.CoreCompileInputs.cache
+N:\learning\WPF\Loding Report\Loding Report\obj\Debug\net9.0-windows\Loding R.269CC29E.Up2Date
+N:\learning\WPF\Loding Report\Loding Report\obj\Debug\net9.0-windows\Loding Report.dll
+N:\learning\WPF\Loding Report\Loding Report\obj\Debug\net9.0-windows\refint\Loding Report.dll
+N:\learning\WPF\Loding Report\Loding Report\obj\Debug\net9.0-windows\Loding Report.pdb
+N:\learning\WPF\Loding Report\Loding Report\obj\Debug\net9.0-windows\Loding Report.genruntimeconfig.cache
+N:\learning\WPF\Loding Report\Loding Report\obj\Debug\net9.0-windows\ref\Loding Report.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\Loding Report.dll.config
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\Microsoft.Bcl.Cryptography.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\Microsoft.Extensions.Caching.Memory.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\Microsoft.Extensions.Options.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\Microsoft.Extensions.Primitives.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Abstractions.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Logging.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\Microsoft.IdentityModel.Tokens.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\Microsoft.SqlServer.Server.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\System.Configuration.ConfigurationManager.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\System.Diagnostics.EventLog.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\System.IdentityModel.Tokens.Jwt.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\System.Security.Cryptography.Pkcs.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\System.Security.Cryptography.ProtectedData.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Diagnostics.EventLog.dll
+N:\learning\WPF\Loding Report\Loding Report\bin\Debug\net9.0-windows\runtimes\win\lib\net9.0\System.Security.Cryptography.Pkcs.dll

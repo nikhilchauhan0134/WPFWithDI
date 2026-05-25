@@ -1,0 +1,335 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "N:\\learning\\WPF\\Loding Report\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|n:\\learning\\wpf\\loding report\\loding report\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|solutionrelative:loding report\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|n:\\learning\\wpf\\loding report\\loding report\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|solutionrelative:loding report\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|n:\\learning\\wpf\\loding report\\loding report\\views\\listbillreport.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|solutionrelative:loding report\\views\\listbillreport.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|n:\\learning\\wpf\\loding report\\loding report\\repositories\\reportdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|solutionrelative:loding report\\repositories\\reportdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|n:\\learning\\wpf\\loding report\\loding report\\database\\sqldatabaseutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|solutionrelative:loding report\\database\\sqldatabaseutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|n:\\learning\\wpf\\loding report\\loding report\\views\\listbillreport.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|solutionrelative:loding report\\views\\listbillreport.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|n:\\learning\\wpf\\loding report\\loding report\\models\\revenuecollectionsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|solutionrelative:loding report\\models\\revenuecollectionsummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|n:\\learning\\wpf\\loding report\\loding report\\controls\\loadercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|solutionrelative:loding report\\controls\\loadercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|n:\\learning\\wpf\\loding report\\loding report\\services\\ireportdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|solutionrelative:loding report\\services\\ireportdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|n:\\learning\\wpf\\loding report\\loding report\\database\\isqldatabaseutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|solutionrelative:loding report\\database\\isqldatabaseutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|n:\\learning\\wpf\\loding report\\loding report\\viewmodels\\listbillreportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|solutionrelative:loding report\\viewmodels\\listbillreportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|n:\\learning\\wpf\\loding report\\loding report\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|solutionrelative:loding report\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nikhil.chauhan\\AppData\\Local\\Temp\\.vsdbgsrc\\e838e50353acd66f964b3aa62f2ead8b89cb9228844b858a3e0b8d14655eca6e\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|n:\\learning\\wpf\\loding report\\loding report\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|solutionrelative:loding report\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|n:\\learning\\wpf\\loding report\\loding report\\models\\commonmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|solutionrelative:loding report\\models\\commonmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|n:\\learning\\wpf\\loding report\\loding report\\controls\\commonbutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|solutionrelative:loding report\\controls\\commonbutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|n:\\learning\\wpf\\loding report\\loding report\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|solutionrelative:loding report\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|n:\\learning\\wpf\\loding report\\loding report\\controls\\loadercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|solutionrelative:loding report\\controls\\loadercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|n:\\learning\\wpf\\loding report\\loding report\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19D4C689-02F3-417F-95B0-B83E3F1D7B82}|Loding Report\\Loding Report.csproj|solutionrelative:loding report\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IReportDataService.cs",
+              "DocumentMoniker": "N:\\learning\\WPF\\Loding Report\\Loding Report\\Services\\IReportDataService.cs",
+              "RelativeDocumentMoniker": "Loding Report\\Services\\IReportDataService.cs",
+              "ToolTip": "N:\\learning\\WPF\\Loding Report\\Loding Report\\Services\\IReportDataService.cs",
+              "RelativeToolTip": "Loding Report\\Services\\IReportDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T03:01:33.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoaderControl.xaml.cs",
+              "DocumentMoniker": "N:\\learning\\WPF\\Loding Report\\Loding Report\\Controls\\LoaderControl.xaml.cs",
+              "RelativeDocumentMoniker": "Loding Report\\Controls\\LoaderControl.xaml.cs",
+              "ToolTip": "N:\\learning\\WPF\\Loding Report\\Loding Report\\Controls\\LoaderControl.xaml.cs",
+              "RelativeToolTip": "Loding Report\\Controls\\LoaderControl.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T02:37:04.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListBillReport.xaml",
+              "DocumentMoniker": "N:\\learning\\WPF\\Loding Report\\Loding Report\\Views\\ListBillReport.xaml",
+              "RelativeDocumentMoniker": "Loding Report\\Views\\ListBillReport.xaml",
+              "ToolTip": "N:\\learning\\WPF\\Loding Report\\Loding Report\\Views\\ListBillReport.xaml",
+              "RelativeToolTip": "Loding Report\\Views\\ListBillReport.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-22T02:32:53.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListBillReport.xaml.cs",
+              "DocumentMoniker": "N:\\learning\\WPF\\Loding Report\\Loding Report\\Views\\ListBillReport.xaml.cs",
+              "RelativeDocumentMoniker": "Loding Report\\Views\\ListBillReport.xaml.cs",
+              "ToolTip": "N:\\learning\\WPF\\Loding Report\\Loding Report\\Views\\ListBillReport.xaml.cs",
+              "RelativeToolTip": "Loding Report\\Views\\ListBillReport.xaml.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAEwHcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T02:44:18.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "N:\\learning\\WPF\\Loding Report\\Loding Report\\App.config",
+              "RelativeDocumentMoniker": "Loding Report\\App.config",
+              "ToolTip": "N:\\learning\\WPF\\Loding Report\\Loding Report\\App.config",
+              "RelativeToolTip": "Loding Report\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-22T03:41:34.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SqlDatabaseUtility.cs",
+              "DocumentMoniker": "N:\\learning\\WPF\\Loding Report\\Loding Report\\Database\\SqlDatabaseUtility.cs",
+              "RelativeDocumentMoniker": "Loding Report\\Database\\SqlDatabaseUtility.cs",
+              "ToolTip": "N:\\learning\\WPF\\Loding Report\\Loding Report\\Database\\SqlDatabaseUtility.cs",
+              "RelativeToolTip": "Loding Report\\Database\\SqlDatabaseUtility.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAEwDwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T03:43:22.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RevenueCollectionSummary.cs",
+              "DocumentMoniker": "N:\\learning\\WPF\\Loding Report\\Loding Report\\Models\\RevenueCollectionSummary.cs",
+              "RelativeDocumentMoniker": "Loding Report\\Models\\RevenueCollectionSummary.cs",
+              "ToolTip": "N:\\learning\\WPF\\Loding Report\\Loding Report\\Models\\RevenueCollectionSummary.cs",
+              "RelativeToolTip": "Loding Report\\Models\\RevenueCollectionSummary.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T03:27:07.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "N:\\learning\\WPF\\Loding Report\\Loding Report\\App.xaml",
+              "RelativeDocumentMoniker": "Loding Report\\App.xaml",
+              "ToolTip": "N:\\learning\\WPF\\Loding Report\\Loding Report\\App.xaml",
+              "RelativeToolTip": "Loding Report\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-22T02:43:58.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportDataService.cs",
+              "DocumentMoniker": "N:\\learning\\WPF\\Loding Report\\Loding Report\\Repositories\\ReportDataService.cs",
+              "RelativeDocumentMoniker": "Loding Report\\Repositories\\ReportDataService.cs",
+              "ToolTip": "N:\\learning\\WPF\\Loding Report\\Loding Report\\Repositories\\ReportDataService.cs",
+              "RelativeToolTip": "Loding Report\\Repositories\\ReportDataService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAEwEwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T03:02:32.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISqlDatabaseUtility.cs",
+              "DocumentMoniker": "N:\\learning\\WPF\\Loding Report\\Loding Report\\Database\\ISqlDatabaseUtility.cs",
+              "RelativeDocumentMoniker": "Loding Report\\Database\\ISqlDatabaseUtility.cs",
+              "ToolTip": "N:\\learning\\WPF\\Loding Report\\Loding Report\\Database\\ISqlDatabaseUtility.cs",
+              "RelativeToolTip": "Loding Report\\Database\\ISqlDatabaseUtility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T03:42:38.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ListBillReportViewModel.cs",
+              "DocumentMoniker": "N:\\learning\\WPF\\Loding Report\\Loding Report\\ViewModels\\ListBillReportViewModel.cs",
+              "RelativeDocumentMoniker": "Loding Report\\ViewModels\\ListBillReportViewModel.cs",
+              "ToolTip": "N:\\learning\\WPF\\Loding Report\\Loding Report\\ViewModels\\ListBillReportViewModel.cs",
+              "RelativeToolTip": "Loding Report\\ViewModels\\ListBillReportViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T03:32:09.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "N:\\learning\\WPF\\Loding Report\\Loding Report\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Loding Report\\App.xaml.cs",
+              "ToolTip": "N:\\learning\\WPF\\Loding Report\\Loding Report\\App.xaml.cs",
+              "RelativeToolTip": "Loding Report\\App.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA3wCAAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T03:06:13.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CommonModel.cs",
+              "DocumentMoniker": "N:\\learning\\WPF\\Loding Report\\Loding Report\\Models\\CommonModel.cs",
+              "RelativeDocumentMoniker": "Loding Report\\Models\\CommonModel.cs",
+              "ToolTip": "N:\\learning\\WPF\\Loding Report\\Loding Report\\Models\\CommonModel.cs",
+              "RelativeToolTip": "Loding Report\\Models\\CommonModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T02:59:30.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "N:\\learning\\WPF\\Loding Report\\Loding Report\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Loding Report\\AssemblyInfo.cs",
+              "ToolTip": "N:\\learning\\WPF\\Loding Report\\Loding Report\\AssemblyInfo.cs",
+              "RelativeToolTip": "Loding Report\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T03:05:46.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\nikhil.chauhan\\AppData\\Local\\Temp\\.vsdbgsrc\\e838e50353acd66f964b3aa62f2ead8b89cb9228844b858a3e0b8d14655eca6e\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\nikhil.chauhan\\AppData\\Local\\Temp\\.vsdbgsrc\\e838e50353acd66f964b3aa62f2ead8b89cb9228844b858a3e0b8d14655eca6e\\XamlReader.cs [Read Only]",
+              "ViewState": "AgIAAJwBAAAAAAAAAAAswKMBAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T03:09:17.059Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoaderControl.xaml",
+              "DocumentMoniker": "N:\\learning\\WPF\\Loding Report\\Loding Report\\Controls\\LoaderControl.xaml",
+              "RelativeDocumentMoniker": "Loding Report\\Controls\\LoaderControl.xaml",
+              "ToolTip": "N:\\learning\\WPF\\Loding Report\\Loding Report\\Controls\\LoaderControl.xaml",
+              "RelativeToolTip": "Loding Report\\Controls\\LoaderControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-22T02:29:33.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CommonButton.xaml",
+              "DocumentMoniker": "N:\\learning\\WPF\\Loding Report\\Loding Report\\Controls\\CommonButton.xaml",
+              "RelativeDocumentMoniker": "Loding Report\\Controls\\CommonButton.xaml",
+              "ToolTip": "N:\\learning\\WPF\\Loding Report\\Loding Report\\Controls\\CommonButton.xaml",
+              "RelativeToolTip": "Loding Report\\Controls\\CommonButton.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-22T02:13:15.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "N:\\learning\\WPF\\Loding Report\\Loding Report\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Loding Report\\MainWindow.xaml",
+              "ToolTip": "N:\\learning\\WPF\\Loding Report\\Loding Report\\MainWindow.xaml",
+              "RelativeToolTip": "Loding Report\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-22T02:06:48.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "N:\\learning\\WPF\\Loding Report\\Loding Report\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Loding Report\\MainWindow.xaml.cs",
+              "ToolTip": "N:\\learning\\WPF\\Loding Report\\Loding Report\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Loding Report\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T02:06:46.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

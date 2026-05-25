@@ -1,0 +1,117 @@
+﻿<mah:MetroWindow x:Class="Loding_Report.Views.ListBillReport"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Loding_Report.Views"
+        xmlns:ctrl="clr-namespace:Loding_Report.Controls"
+        xmlns:mah="http://metro.mahapps.com/winfx/xaml/controls"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="List Bill Report" 
+        Height="650" Width="1000"
+        WindowStartupLocation="CenterScreen"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        Background="#F5F5F5">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Border Grid.Row="0"
+                Background="White"
+                Margin="15"
+                Padding="15,20"
+                CornerRadius="6"
+                Effect="{DynamicResource MaterialDesignShadowDepth1}">
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="1.2*"/>
+                    <ColumnDefinition Width="1.2*"/>
+                    <ColumnDefinition Width="1.2*"/>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Grid.Column="0" Margin="12,0">
+                    <ComboBox x:Name="cmbProperty"
+                              materialDesign:HintAssist.Hint="Property" 
+                              Style="{StaticResource MaterialDesignFloatingHintComboBox}"
+                              Height="42"
+                              VerticalAlignment="Center"
+                              ItemsSource="{Binding PropertiesList}"
+                              DisplayMemberPath="DisplayText"
+                              SelectedIndex="0">
+                    </ComboBox>
+                </StackPanel>
+
+                <StackPanel Grid.Column="1" Margin="12,0">
+                    <DatePicker x:Name="dpStartDate"
+                                materialDesign:HintAssist.Hint="Start Date"
+                                Style="{StaticResource MaterialDesignFloatingHintDatePicker}"
+                                Height="42"/>
+                </StackPanel>
+
+                <StackPanel Grid.Column="2" Margin="12,0">
+                    <DatePicker x:Name="dpEndDate"
+                                materialDesign:HintAssist.Hint="End Date"
+                                Style="{StaticResource MaterialDesignFloatingHintDatePicker}"
+                                Height="42"/>
+                </StackPanel>
+
+                <StackPanel Grid.Column="3" Margin="12,0">
+                    <ComboBox x:Name="cmbOutlets"
+                              materialDesign:HintAssist.Hint="Outlets" 
+                              Style="{StaticResource MaterialDesignFloatingHintComboBox}"
+                              Height="42"
+                              ItemsSource="{Binding OutletsList}"
+                              DisplayMemberPath="DisplayText"
+                              SelectedIndex="0">
+                    </ComboBox>
+                </StackPanel>
+            </Grid>
+        </Border>
+
+        <StackPanel Grid.Row="1"
+                    Orientation="Horizontal"
+                    HorizontalAlignment="Right"
+                    Margin="15,0,15,10">
+
+            <Button Content="Generate Report"
+                    Click="btnGenerateReport_Click"
+                    Width="160"
+                    Height="40"
+                    Margin="10,0"
+                    Style="{StaticResource MaterialDesignRaisedButton}"/>
+
+            <Button Content="Reset"
+                    Click="btnReset_Click"
+                    Width="100"
+                    Height="40"
+                    Margin="10,0"
+                    Style="{StaticResource MaterialDesignOutlinedButton}"/>
+        </StackPanel>
+
+        <Border Grid.Row="2"
+                Margin="15,5,15,15"
+                Background="White"
+                CornerRadius="6"
+                Padding="10"
+                Effect="{DynamicResource MaterialDesignShadowDepth1}">
+
+            <DataGrid x:Name="dgReport" 
+                      AutoGenerateColumns="True"
+                      HeadersVisibility="Column"
+                      GridLinesVisibility="Horizontal"
+                      Background="Transparent"
+                      Style="{StaticResource MaterialDesignDataGrid}">
+            </DataGrid>
+        </Border>
+
+        <ctrl:LoaderControl x:Name="Loader" 
+                            Visibility="Collapsed"/>
+    </Grid>
+</mah:MetroWindow>

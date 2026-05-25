@@ -1,0 +1,53 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <RootNamespace>Loding_Report</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="C:\Users\nikhil.chauhan\.nuget\packages\materialdesignthemes\5.3.2\contentFiles\any\net8.0-windows7.0\Resources\Noto\NotoSans-Bold.ttf" />
+    <Content Remove="C:\Users\nikhil.chauhan\.nuget\packages\materialdesignthemes\5.3.2\contentFiles\any\net8.0-windows7.0\Resources\Noto\NotoSans-BoldItalic.ttf" />
+    <Content Remove="C:\Users\nikhil.chauhan\.nuget\packages\materialdesignthemes\5.3.2\contentFiles\any\net8.0-windows7.0\Resources\Noto\NotoSans-Italic.ttf" />
+    <Content Remove="C:\Users\nikhil.chauhan\.nuget\packages\materialdesignthemes\5.3.2\contentFiles\any\net8.0-windows7.0\Resources\Noto\NotoSans-Regular.ttf" />
+    <Content Remove="C:\Users\nikhil.chauhan\.nuget\packages\materialdesignthemes\5.3.2\contentFiles\any\net8.0-windows7.0\Resources\Roboto\Roboto-Black.ttf" />
+    <Content Remove="C:\Users\nikhil.chauhan\.nuget\packages\materialdesignthemes\5.3.2\contentFiles\any\net8.0-windows7.0\Resources\Roboto\Roboto-BlackItalic.ttf" />
+    <Content Remove="C:\Users\nikhil.chauhan\.nuget\packages\materialdesignthemes\5.3.2\contentFiles\any\net8.0-windows7.0\Resources\Roboto\Roboto-Bold.ttf" />
+    <Content Remove="C:\Users\nikhil.chauhan\.nuget\packages\materialdesignthemes\5.3.2\contentFiles\any\net8.0-windows7.0\Resources\Roboto\Roboto-BoldItalic.ttf" />
+    <Content Remove="C:\Users\nikhil.chauhan\.nuget\packages\materialdesignthemes\5.3.2\contentFiles\any\net8.0-windows7.0\Resources\Roboto\Roboto-Italic.ttf" />
+    <Content Remove="C:\Users\nikhil.chauhan\.nuget\packages\materialdesignthemes\5.3.2\contentFiles\any\net8.0-windows7.0\Resources\Roboto\Roboto-Light.ttf" />
+    <Content Remove="C:\Users\nikhil.chauhan\.nuget\packages\materialdesignthemes\5.3.2\contentFiles\any\net8.0-windows7.0\Resources\Roboto\Roboto-LightItalic.ttf" />
+    <Content Remove="C:\Users\nikhil.chauhan\.nuget\packages\materialdesignthemes\5.3.2\contentFiles\any\net8.0-windows7.0\Resources\Roboto\Roboto-Medium.ttf" />
+    <Content Remove="C:\Users\nikhil.chauhan\.nuget\packages\materialdesignthemes\5.3.2\contentFiles\any\net8.0-windows7.0\Resources\Roboto\Roboto-MediumItalic.ttf" />
+    <Content Remove="C:\Users\nikhil.chauhan\.nuget\packages\materialdesignthemes\5.3.2\contentFiles\any\net8.0-windows7.0\Resources\Roboto\Roboto-Regular.ttf" />
+    <Content Remove="C:\Users\nikhil.chauhan\.nuget\packages\materialdesignthemes\5.3.2\contentFiles\any\net8.0-windows7.0\Resources\Roboto\Roboto-Thin.ttf" />
+    <Content Remove="C:\Users\nikhil.chauhan\.nuget\packages\materialdesignthemes\5.3.2\contentFiles\any\net8.0-windows7.0\Resources\Roboto\Roboto-ThinItalic.ttf" />
+    <Content Remove="C:\Users\nikhil.chauhan\.nuget\packages\materialdesignthemes\5.3.2\contentFiles\any\net8.0-windows7.0\Resources\Roboto\RobotoCondensed-Bold.ttf" />
+    <Content Remove="C:\Users\nikhil.chauhan\.nuget\packages\materialdesignthemes\5.3.2\contentFiles\any\net8.0-windows7.0\Resources\Roboto\RobotoCondensed-BoldItalic.ttf" />
+    <Content Remove="C:\Users\nikhil.chauhan\.nuget\packages\materialdesignthemes\5.3.2\contentFiles\any\net8.0-windows7.0\Resources\Roboto\RobotoCondensed-Italic.ttf" />
+    <Content Remove="C:\Users\nikhil.chauhan\.nuget\packages\materialdesignthemes\5.3.2\contentFiles\any\net8.0-windows7.0\Resources\Roboto\RobotoCondensed-Light.ttf" />
+    <Content Remove="C:\Users\nikhil.chauhan\.nuget\packages\materialdesignthemes\5.3.2\contentFiles\any\net8.0-windows7.0\Resources\Roboto\RobotoCondensed-LightItalic.ttf" />
+    <Content Remove="C:\Users\nikhil.chauhan\.nuget\packages\materialdesignthemes\5.3.2\contentFiles\any\net8.0-windows7.0\Resources\Roboto\RobotoCondensed-Regular.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Asserts\" />
+    <Folder Include="Helpers\" />
+    <Folder Include="Utilities\" />
+    <Folder Include="Styles\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MahApps.Metro" Version="2.4.11" />
+    <PackageReference Include="MaterialDesignThemes" Version="5.3.2" />
+    <PackageReference Include="MaterialDesignThemes.MahApps" Version="5.3.2" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="7.0.1" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="10.0.8" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+  </ItemGroup>
+
+</Project>
